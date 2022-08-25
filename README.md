@@ -1,6 +1,7 @@
 # Mathematical Modeling Codes
 Updated and Proofread Python and R Codes for "Introduction to Modern Mathematical Modeling: A User’s Manual to Train Mathematical Consultants" by Samuel S.P. Shen
 
+The following are the links for each .Rmd chapter file published in through Rpubs.
 [Chapter 2](https://rpubs.com/joaquinstawsky/mathmodel2) <br/>
 [Chapter 3](https://rpubs.com/joaquinstawsky/mathmodel3)  <br/> 
 [Chapter 4](https://rpubs.com/joaquinstawsky/mathmodel4)  <br/>
